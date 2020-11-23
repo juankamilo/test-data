@@ -1,0 +1,32 @@
+{
+  "languages": [
+    { "id": 1, "language": "English", "active": true },
+    { "id": 2, "language": "العربية", "active": false },
+    { "id": 3, "language": "Deutsch", "active": false },
+    { "id": 4, "language": "Español", "active": false },
+    { "id": 5, "language": "Français", "active": false },
+    { "id": 6, "language": "Italiano", "active": false },
+    { "id": 7, "language": "日本語", "active": false },
+    { "id": 8, "language": "한국어", "active": false },
+    { "id": 9, "language": "Nederlands", "active": false },
+    { "id": 10, "language": "Portugués", "active": false },
+    { "id": 19, "language": "Português", "active": false }
+  ],
+  "allCurrency": [
+    { "id": 11, "topCurrency": false, "currency": "Australian Dollar", "currencyAlias": "AUD", "active": false },
+    { "id": 12, "topCurrency": false, "currency": "Bahamian Dollar", "currencyAlias": "BSD", "active": false },
+    { "id": 13, "topCurrency": false, "currency": "Bermudian Dollar", "currencyAlias": "BMD", "active": false },
+    { "id": 14, "topCurrency": false, "currency": "Bolivian Boliviano", "currencyAlias": "BOB", "active": false },
+    { "id": 15, "topCurrency": false, "currency": "Brazilian Real", "currencyAlias": "BRL", "active": false },
+    { "id": 16, "topCurrency": false, "currency": "British Pound", "currencyAlias": "GBP", "active": false },
+    { "id": 17, "topCurrency": false, "currency": "Canadian Dollar", "currencyAlias": "CAD", "active": false },
+    { "id": 18, "topCurrency": false, "currency": "Cayman Islands Dollar ", "currencyAlias": "KYD", "active": false }
+  ],
+  "topCurrency": [
+    { "id": 20, "topCurrency": true, "currency": "Colombian Peso", "currencyAlias": "COP", "active": true },
+    { "id": 21, "topCurrency": true, "currency": "United States Dollar ", "currencyAlias": "USD", "active": false },
+    { "id": 22, "topCurrency": true, "currency": "Euro ", "currencyAlias": "EUR", "active": false },
+    { "id": 23, "topCurrency": true, "currency": "Japanese Yen", "currencyAlias": "JPY", "active": false },
+    { "id": 24, "topCurrency": true, "currency": "British Pound", "currencyAlias": "GBP", "active": false }
+  ]
+}
