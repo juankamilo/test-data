@@ -12,21 +12,19 @@
     { "id": 10, "language": "Portugués", "active": false },
     { "id": 19, "language": "Português", "active": false }
   ],
-  "allCurrency": [
-    { "id": 11, "topCurrency": false, "currency": "Australian Dollar", "currencyAlias": "AUD", "active": false },
-    { "id": 12, "topCurrency": false, "currency": "Bahamian Dollar", "currencyAlias": "BSD", "active": false },
-    { "id": 13, "topCurrency": false, "currency": "Bermudian Dollar", "currencyAlias": "BMD", "active": false },
-    { "id": 14, "topCurrency": false, "currency": "Bolivian Boliviano", "currencyAlias": "BOB", "active": false },
-    { "id": 15, "topCurrency": false, "currency": "Brazilian Real", "currencyAlias": "BRL", "active": false },
-    { "id": 16, "topCurrency": false, "currency": "British Pound", "currencyAlias": "GBP", "active": false },
-    { "id": 17, "topCurrency": false, "currency": "Canadian Dollar", "currencyAlias": "CAD", "active": false },
-    { "id": 18, "topCurrency": false, "currency": "Cayman Islands Dollar ", "currencyAlias": "KYD", "active": false }
-  ],
-  "topCurrency": [
-    { "id": 20, "topCurrency": true, "currency": "Colombian Peso", "currencyAlias": "COP", "active": true },
-    { "id": 21, "topCurrency": true, "currency": "United States Dollar ", "currencyAlias": "USD", "active": false },
-    { "id": 22, "topCurrency": true, "currency": "Euro ", "currencyAlias": "EUR", "active": false },
-    { "id": 23, "topCurrency": true, "currency": "Japanese Yen", "currencyAlias": "JPY", "active": false },
-    { "id": 24, "topCurrency": true, "currency": "British Pound", "currencyAlias": "GBP", "active": false }
+  "currencies": [
+    { "id": 11, "topCurrency": false, "currency": "Australian Dollar", "currencyCode": "AUD", "active": false },
+    { "id": 12, "topCurrency": false, "currency": "Bahamian Dollar", "currencyCode": "BSD", "active": false },
+    { "id": 13, "topCurrency": false, "currency": "Bermudian Dollar", "currencyCode": "BMD", "active": false },
+    { "id": 14, "topCurrency": false, "currency": "Bolivian Boliviano", "currencyCode": "BOB", "active": false },
+    { "id": 15, "topCurrency": false, "currency": "Brazilian Real", "currencyCode": "BRL", "active": false },
+    { "id": 16, "topCurrency": false, "currency": "British Pound", "currencyCode": "GBP", "active": false },
+    { "id": 17, "topCurrency": false, "currency": "Canadian Dollar", "currencyCode": "CAD", "active": false },
+    { "id": 18, "topCurrency": false, "currency": "Cayman Islands Dollar ", "currencyCode": "KYD", "active": false },
+	{ "id": 20, "topCurrency": true, "currency": "Colombian Peso", "currencyCode": "COP", "active": false },
+    { "id": 21, "topCurrency": true, "currency": "United States Dollar ", "currencyCode": "USD", "active": true },
+    { "id": 22, "topCurrency": true, "currency": "Euro ", "currencyCode": "EUR", "active": false },
+    { "id": 23, "topCurrency": true, "currency": "Japanese Yen", "currencyCode": "JPY", "active": false },
+    { "id": 24, "topCurrency": true, "currency": "British Pound", "currencyCode": "GBP", "active": false }
   ]
 }
