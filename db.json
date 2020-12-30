@@ -31,7 +31,7 @@
     {
       "title": "Rent a car in Colombia",
       "img": "rent-in-colombia.png" ,
-      "destination":[
+      "cities":[
         { "city": "Bogota", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Cartagena de Indias, Bolivar", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Medellín, Antioquia", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
@@ -42,7 +42,7 @@
     {
       "title": "Rent a car in the USA",
       "img": "rent-in-usa.png" ,
-      "destination":[
+      "cities":[
         { "city": "Miami", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Orlando", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Los Angeles", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
@@ -53,7 +53,7 @@
     {
       "title": "Rent a car in Europe",
       "img": "rent-in-europe.png" ,
-      "destination":[
+      "cities":[
         { "city": "Madrid", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Barcelona", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Paris", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
@@ -64,7 +64,7 @@
     {
       "title": "Rent a car in South America",
       "img": "rent-in-south-america.png" ,
-      "destination":[
+      "cities":[
         { "city": "Sao Pablo", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Buenos Aires", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Santiago", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
@@ -75,7 +75,7 @@
     {
       "title": "Rent a car in North and Central America",
       "img": "rent-a-car-north-and-central-america.png" ,
-      "destination":[
+      "cities":[
         { "city": "Cancun", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Mexico DF", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Aruba", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
@@ -86,13 +86,12 @@
     {
       "title": "Rent a car in Rest of the World",
       "img": "rent-a-car.png" ,
-      "destination":[
+      "cities":[
         { "city": "Dubai", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Tokio", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Wellington", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Sydney", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
         { "city": "Moscu", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false }
-    
       ]
     }
   ]
