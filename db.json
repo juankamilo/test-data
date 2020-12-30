@@ -62,6 +62,17 @@
       ]
     },
     {
+      "title": "Rent a car in South America",
+      "img": "rent-in-usa.png" ,
+      "destination":[
+        { "city": "Sao Pablo", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
+        { "city": "Buenos Aires", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
+        { "city": "Santiago", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
+        { "city": "Lima", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
+        { "city": "Bogota", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false }
+      ]
+    },
+    {
       "title": "Rent a car in North and Central America",
       "img": "rent-in-usa.png" ,
       "destination":[
