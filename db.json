@@ -44,7 +44,7 @@
       { "type": "destination", "city": "Orlando", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
       { "type": "destination", "city": "Los Angeles", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
       { "type": "destination", "city": "New York", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
-      { "type": "destination", "city": "Atlanta", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false },
+      { "type": "destination", "city": "Atlanta", "href": "//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/", "active": false }
     ],
     "Europe":[
       { "type": "title", "title": "Rent a car in Europe" },
