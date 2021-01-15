@@ -1,17 +1,4 @@
 {
-  "languages": [
-    { "id": 1, "language": "English", "active": true },
-    { "id": 2, "language": "العربية", "active": false },
-    { "id": 3, "language": "Deutsch", "active": false },
-    { "id": 4, "language": "Español", "active": false },
-    { "id": 5, "language": "Français", "active": false },
-    { "id": 6, "language": "Italiano", "active": false },
-    { "id": 7, "language": "日本語", "active": false },
-    { "id": 8, "language": "한국어", "active": false },
-    { "id": 9, "language": "Nederlands", "active": false },
-    { "id": 10, "language": "Portugués", "active": false },
-    { "id": 19, "language": "Português", "active": false }
-  ],
   "currencies": [
     { "id": 11, "topCurrency": false, "currency": "Australian Dollar", "currencyCode": "AUD", "active": false },
     { "id": 12, "topCurrency": false, "currency": "Bahamian Dollar", "currencyCode": "BSD", "active": false },
