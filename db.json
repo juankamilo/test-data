@@ -1,97 +1,278 @@
 {
   "currencies": [
-    {
-      "id": 11,
-      "topCurrency": false,
-      "currency": "Australian Dollar",
-      "currencyCode": "AUD",
-      "active": false
-    },
-    {
-      "id": 12,
-      "topCurrency": false,
-      "currency": "Bahamian Dollar",
-      "currencyCode": "BSD",
-      "active": false
-    },
-    {
-      "id": 13,
-      "topCurrency": false,
-      "currency": "Bermudian Dollar",
-      "currencyCode": "BMD",
-      "active": false
-    },
-    {
-      "id": 14,
-      "topCurrency": false,
-      "currency": "Bolivian Boliviano",
-      "currencyCode": "BOB",
-      "active": false
-    },
-    {
-      "id": 15,
-      "topCurrency": false,
-      "currency": "Brazilian Real",
-      "currencyCode": "BRL",
-      "active": false
-    },
-    {
-      "id": 16,
-      "topCurrency": false,
-      "currency": "British Pound",
-      "currencyCode": "GBP",
-      "active": false
-    },
-    {
-      "id": 17,
-      "topCurrency": false,
-      "currency": "Canadian Dollar",
-      "currencyCode": "CAD",
-      "active": false
-    },
-    {
-      "id": 18,
-      "topCurrency": false,
-      "currency": "Cayman Islands Dollar ",
-      "currencyCode": "KYD",
-      "active": false
-    },
-    {
-      "id": 20,
-      "topCurrency": true,
-      "currency": "Colombian Peso",
-      "currencyCode": "COP",
-      "active": false
-    },
-    {
-      "id": 21,
-      "topCurrency": true,
-      "currency": "United States Dollar ",
-      "currencyCode": "USD",
-      "active": true
-    },
-    {
-      "id": 22,
-      "topCurrency": true,
-      "currency": "Euro ",
-      "currencyCode": "EUR",
-      "active": false
-    },
-    {
-      "id": 23,
-      "topCurrency": true,
-      "currency": "Japanese Yen",
-      "currencyCode": "JPY",
-      "active": false
-    },
-    {
-      "id": 24,
-      "topCurrency": true,
-      "currency": "British Pound",
-      "currencyCode": "GBP",
-      "active": false
-    }
-  ],
+  {
+    "id": 10,
+    "name": "Argentine peso",
+    "description": "ARS",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 11,
+    "name": "Australian dollar",
+    "description": "AUD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 24,
+    "name": "Bahamian dollar",
+    "description": "BSD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 20,
+    "name": "Bermudian dollar",
+    "description": "BMD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 22,
+    "name": "Bolivian boliviano",
+    "description": "BOB",
+    "badge": "Bs.",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 23,
+    "name": "Brazilian real",
+    "description": "BRL",
+    "badge": "R$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 4,
+    "name": "British pound",
+    "description": "GBP",
+    "badge": "£",
+    "base": 3,
+    "exponent_currency": 2
+  },
+  {
+    "id": 30,
+    "name": "Canadian dollar",
+    "description": "CAD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 82,
+    "name": "Cayman Islands dollar",
+    "description": "KYD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 34,
+    "name": "Chilean peso",
+    "description": "CLP",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 0
+  },
+  {
+    "id": 36,
+    "name": "Colombian Peso",
+    "description": "COP",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 37,
+    "name": "Costa Rican colón",
+    "description": "CRC",
+    "badge": "₡",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 43,
+    "name": "Dominican peso",
+    "description": "DOP",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 2,
+    "name": "Euro",
+    "description": "EUR",
+    "badge": "€",
+    "base": 3,
+    "exponent_currency": 2
+  },
+  {
+    "id": 57,
+    "name": "Guatemalan quetzal",
+    "description": "GTQ",
+    "badge": "Q",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 60,
+    "name": "Honduran lempira",
+    "description": "HNL",
+    "badge": "L",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 72,
+    "name": "Jamaican dollar",
+    "description": "JMD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 74,
+    "name": "Japanese yen",
+    "description": "JPY",
+    "badge": "¥",
+    "base": 2,
+    "exponent_currency": 0
+  },
+  {
+    "id": 85,
+    "name": "Lebanese pound",
+    "description": "LBP",
+    "badge": "ل.ل",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 104,
+    "name": "Mexican peso",
+    "description": "MXN",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 92,
+    "name": "Moroccan dirham",
+    "description": "MAD",
+    "badge": "د.م.",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 8,
+    "name": "Netherlands Antillean guilder",
+    "description": "ANG",
+    "badge": "ƒ",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 109,
+    "name": "Nicaraguan córdoba",
+    "description": "NIO",
+    "badge": "C$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 120,
+    "name": "Paraguayan guaraní",
+    "description": "PYG",
+    "badge": "₲",
+    "base": 2,
+    "exponent_currency": 0
+  },
+  {
+    "id": 115,
+    "name": "Peruvian nuevo sol",
+    "description": "PEN",
+    "badge": "S/.",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 121,
+    "name": "Qatari riyal",
+    "description": "QAR",
+    "badge": "ر.ق",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 126,
+    "name": "Saudi riyal",
+    "description": "SAR",
+    "badge": "ر.س",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 166,
+    "name": "South African rand",
+    "description": "ZAR",
+    "badge": "R",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 80,
+    "name": "South Korean won",
+    "description": "KRW",
+    "badge": "₩",
+    "base": 2,
+    "exponent_currency": 0
+  },
+  {
+    "id": 32,
+    "name": "Swiss franc",
+    "description": "CHF",
+    "badge": "Fr",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 146,
+    "name": "Trinidad and Tobago dollar",
+    "description": "TTD",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  },
+  {
+    "id": 3,
+    "name": "United Arab Emirates",
+    "description": "AED",
+    "badge": "د.إ",
+    "base": 3,
+    "exponent_currency": 2
+  },
+  {
+    "id": 1,
+    "name": "United States dollar",
+    "description": "USD",
+    "badge": "$",
+    "base": 3,
+    "exponent_currency": 2
+  },
+  {
+    "id": 152,
+    "name": "Uruguayan peso",
+    "description": "UYU",
+    "badge": "$",
+    "base": 2,
+    "exponent_currency": 2
+  }
+],
   "destinations": [
   {
     "title": "Rent a car in Colombia",
